@@ -1,7 +1,7 @@
-###A whole bunch of CRUD
+### A Whole Bunch of CRUD
 [MongoDB database work.](https://github.com/RealMrRabbit/realmrrabbit.github.io/blob/main/final_project_server.py)
 
-###My Ventures Into OpenGL
+### My Ventures Into OpenGL
 [My basic OpenGL graphics engine.](www.google.com)
 
 ### Where I Started
