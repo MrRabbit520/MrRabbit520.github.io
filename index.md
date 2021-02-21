@@ -2,7 +2,7 @@
 I've worked in the world of software engineering for a while now and \
 have multiple projects if you're interested in checking them out. 
 
-Email | ConnorR520@gmail.com \
+Email | ConnorR520@gmail.com
 Github | [Click Here](https://github.com/RealMrRabbit) 
 
 ### A Whole Bunch of CRUD
